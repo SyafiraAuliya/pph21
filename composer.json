@@ -1,0 +1,16 @@
+{
+    "name": "ilman/pph21",
+    "description": "Belajar composer php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ilman\\Pph21\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilman"
+        }
+    ],
+    "require": {}
+}
